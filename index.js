@@ -1,5 +1,3 @@
-
-
 let dataResponse;
 // ATTEMPT 2
 fetch('data.json').then(response => {
@@ -12,10 +10,15 @@ fetch('data.json').then(response => {
   window.alert('Sorry. An error was thrown.')
 });
 
-var str = dataResponse.fields.customfield_10115
+var str = dataResponse[0].fields.customfield_10115[0];
+var str2 = dataResponse[1].fields.customfield_10115[0];
 
-function extractString(){
-	str.split('name=').pop().split(',goal=').shift();
-	var subStr = str.split('name=').pop().split(',goal=').shift();
+function extractString(foo){
+	// return foo.split('name=').pop().split(',goal=').shift();
+	let subStr = foo.split('name=').pop().split(',goal=').shift();
+	console.log(subStr);
 	return subStr;
 }
+
+extractString(str);
+extractString(str2);
