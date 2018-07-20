@@ -1,304 +1,608 @@
 {
-	"expand": "schema,names",
-	"startAt": 0,
-	"maxResults": 50,
-	"total": 21,
-	"issues": [
-		{
-			"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
-			"id": "45468",
-			"self": "https://seasoned.atlassian.net/rest/agile/1.0/issue/45468",
-			"key": "SS-1968",
-			"fields": {
-				"timetracking": {
-					"originalEstimate": "13h",
-					"remainingEstimate": "13h",
-					"originalEstimateSeconds": 46800,
-				"remainingEstimateSeconds": 46800
-			}
-		}
-	},
-	{
-		"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
-		"id": "45508",
-		"self": "https://seasoned.atlassian.net/rest/agile/1.0/issue/45508",
-		"key": "SS-2005",
-		"fields": {
-			"timetracking": {
-				"originalEstimate": "21h",
-				"remainingEstimate": "21h",
-				"originalEstimateSeconds": 75600,
-				"remainingEstimateSeconds": 75600
-			}
-		}
-	},
-	{
-		"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
-		"id": "45654",
-		"self": "https://seasoned.atlassian.net/rest/agile/1.0/issue/45654",
-		"key": "SS-2122",
-		"fields": {
-			"timetracking": {
-				"originalEstimate": "13h",
-				"remainingEstimate": "13h",
-				"originalEstimateSeconds": 46800,
-				"remainingEstimateSeconds": 46800
-			}
-		}
-	},
-	{
-		"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
-		"id": "45648",
-		"self": "https://seasoned.atlassian.net/rest/agile/1.0/issue/45648",
-		"key": "SS-2116",
-		"fields": {
-			"timetracking": {
-				"originalEstimate": "5h",
-				"remainingEstimate": "2h",
-				"timeSpent": "3h",
-				"originalEstimateSeconds": 18000,
-				"remainingEstimateSeconds": 7200,
-				"timeSpentSeconds": 10800
-			}
-		}
-	},
-	{
-		"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
-		"id": "45569",
-		"self": "https://seasoned.atlassian.net/rest/agile/1.0/issue/45569",
-		"key": "SS-2052",
-		"fields": {
-			"timetracking": {
-				"originalEstimate": "5h",
-				"remainingEstimate": "5h",
-				"originalEstimateSeconds": 18000,
-				"remainingEstimateSeconds": 18000
-			}
-		}
-	},
-	{
-		"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
-		"id": "45603",
-		"self": "https://seasoned.atlassian.net/rest/agile/1.0/issue/45603",
-		"key": "SS-2078",
-		"fields": {
-			"timetracking": {
-				"originalEstimate": "13h",
-				"remainingEstimate": "13h",
-				"originalEstimateSeconds": 46800,
-				"remainingEstimateSeconds": 46800
-			}
-		}
-	},
-	{
-		"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
-		"id": "45694",
-		"self": "https://seasoned.atlassian.net/rest/agile/1.0/issue/45694",
-		"key": "SS-2152",
-		"fields": {
-			"timetracking": {
-				"originalEstimate": "3h",
-				"remainingEstimate": "3h",
-				"originalEstimateSeconds": 10800,
-				"remainingEstimateSeconds": 10800
-			}
-		}
-	},
-	{
-		"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
-		"id": "45581",
-		"self": "https://seasoned.atlassian.net/rest/agile/1.0/issue/45581",
-		"key": "SS-2062",
-		"fields": {
-			"timetracking": {
-				"originalEstimate": "8h",
-				"remainingEstimate": "8h",
-				"originalEstimateSeconds": 28800,
-				"remainingEstimateSeconds": 28800
-			}
-		}
-	},
-	{
-		"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
-		"id": "45695",
-		"self": "https://seasoned.atlassian.net/rest/agile/1.0/issue/45695",
-		"key": "SS-2153",
-		"fields": {
-			"timetracking": {
-				"originalEstimate": "8h",
-				"remainingEstimate": "8h",
-				"originalEstimateSeconds": 28800,
-				"remainingEstimateSeconds": 28800
-			}
-		}
-	},
-	{
-		"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
-		"id": "45582",
-		"self": "https://seasoned.atlassian.net/rest/agile/1.0/issue/45582",
-		"key": "SS-2063",
-		"fields": {
-			"timetracking": {
-				"originalEstimate": "21h",
-				"remainingEstimate": "21h",
-				"originalEstimateSeconds": 75600,
-				"remainingEstimateSeconds": 75600
-			}
-		}
-	},
-	{
-		"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
-		"id": "45655",
-		"self": "https://seasoned.atlassian.net/rest/agile/1.0/issue/45655",
-		"key": "SS-2123",
-		"fields": {
-			"timetracking": {
-				"originalEstimate": "5h",
-				"remainingEstimate": "5h",
-				"originalEstimateSeconds": 18000,
-				"remainingEstimateSeconds": 18000
-			}
-		}
-	},
-	{
-		"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
-		"id": "45643",
-		"self": "https://seasoned.atlassian.net/rest/agile/1.0/issue/45643",
-		"key": "SS-2114",
-		"fields": {
-			"timetracking": {
-				"originalEstimate": "34h",
-				"remainingEstimate": "34h",
-				"originalEstimateSeconds": 122400,
-				"remainingEstimateSeconds": 122400
-			}
-		}
-	},
-	{
-		"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
-		"id": "45634",
-		"self": "https://seasoned.atlassian.net/rest/agile/1.0/issue/45634",
-		"key": "SS-2108",
-		"fields": {
-			"timetracking": {
-				"originalEstimate": "8h",
-				"remainingEstimate": "8h",
-				"originalEstimateSeconds": 28800,
-				"remainingEstimateSeconds": 28800
-			}
-		}
-	},
-	{
-		"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
-		"id": "45696",
-		"self": "https://seasoned.atlassian.net/rest/agile/1.0/issue/45696",
-		"key": "SS-2154",
-		"fields": {
-			"timetracking": {
-				"originalEstimate": "8h",
-				"remainingEstimate": "8h",
-				"originalEstimateSeconds": 28800,
-				"remainingEstimateSeconds": 28800
-			}
-		}
-	},
-	{
-		"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
-		"id": "45676",
-		"self": "https://seasoned.atlassian.net/rest/agile/1.0/issue/45676",
-		"key": "SS-2141",
-		"fields": {
-			"timetracking": {
-				"originalEstimate": "8h",
-				"remainingEstimate": "8h",
-				"originalEstimateSeconds": 28800,
-				"remainingEstimateSeconds": 28800
-			}
-		}
-	},
-	{
-		"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
-		"id": "45697",
-		"self": "https://seasoned.atlassian.net/rest/agile/1.0/issue/45697",
-		"key": "SS-2155",
-		"fields": {
-			"timetracking": {
-				"originalEstimate": "13h",
-				"remainingEstimate": "13h",
-				"originalEstimateSeconds": 46800,
-				"remainingEstimateSeconds": 46800
-			}
-		}
-	},
-	{
-		"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
-		"id": "45674",
-		"self": "https://seasoned.atlassian.net/rest/agile/1.0/issue/45674",
-		"key": "SS-2139",
-		"fields": {
-			"timetracking": {
-				"originalEstimate": "1h",
-				"remainingEstimate": "1h",
-				"originalEstimateSeconds": 3600,
-				"remainingEstimateSeconds": 3600
-			}
-		}
-	},
-	{
-		"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
-		"id": "45677",
-		"self": "https://seasoned.atlassian.net/rest/agile/1.0/issue/45677",
-		"key": "SS-2142",
-		"fields": {
-			"timetracking": {
-				"originalEstimate": "5h",
-				"remainingEstimate": "5h",
-				"originalEstimateSeconds": 18000,
-				"remainingEstimateSeconds": 18000
-			}
-		}
-	},
-	{
-		"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
-		"id": "45698",
-		"self": "https://seasoned.atlassian.net/rest/agile/1.0/issue/45698",
-		"key": "SS-2156",
-		"fields": {
-			"timetracking": {
-				"originalEstimate": "8h",
-				"remainingEstimate": "8h",
-				"originalEstimateSeconds": 28800,
-				"remainingEstimateSeconds": 28800
-			}
-		}
-	},
-	{
-		"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
-		"id": "44767",
-		"self": "https://seasoned.atlassian.net/rest/agile/1.0/issue/44767",
-		"key": "SS-1366",
-		"fields": {
-			"timetracking": {
-				"originalEstimate": "5h",
-				"remainingEstimate": "5h",
-				"originalEstimateSeconds": 18000,
-				"remainingEstimateSeconds": 18000
-			}
-		}
-	},
-	{
-		"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
-		"id": "45675",
-		"self": "https://seasoned.atlassian.net/rest/agile/1.0/issue/45675",
-		"key": "SS-2140",
-		"fields": {
-			"timetracking": {
-				"originalEstimate": "1h",
-				"remainingEstimate": "1h",
-				"originalEstimateSeconds": 3600,
-				"remainingEstimateSeconds": 3600
-			}
-		}
-	}
+"expand": "schema,names",
+"startAt": 0,
+"maxResults": 50,
+"total": 69,
+"issues": [
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45800",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45800",
+"key": "SS-2230",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@60a25ce0[id=71,rapidViewId=9,state=ACTIVE,name=SSND 24 | 1.93.0,goal=,startDate=2018-07-19T15:21:37.737Z,endDate=2018-08-01T15:21:00.000Z,completeDate=<null>,sequence=71]"
+],
+"timeestimate": null
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45798",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45798",
+"key": "SS-2228",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@4bbb9f4d[id=74,rapidViewId=9,state=ACTIVE,name=CMS V2,goal=,startDate=2018-07-02T19:48:36.306Z,endDate=2018-07-17T19:48:00.000Z,completeDate=<null>,sequence=74]"
+],
+"timeestimate": 0
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45797",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45797",
+"key": "SS-2227",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@4bbb9f4d[id=74,rapidViewId=9,state=ACTIVE,name=CMS V2,goal=,startDate=2018-07-02T19:48:36.306Z,endDate=2018-07-17T19:48:00.000Z,completeDate=<null>,sequence=74]"
+],
+"timeestimate": 0
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45796",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45796",
+"key": "SS-2226",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@4bbb9f4d[id=74,rapidViewId=9,state=ACTIVE,name=CMS V2,goal=,startDate=2018-07-02T19:48:36.306Z,endDate=2018-07-17T19:48:00.000Z,completeDate=<null>,sequence=74]"
+],
+"timeestimate": null
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45795",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45795",
+"key": "SS-2225",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@4bbb9f4d[id=74,rapidViewId=9,state=ACTIVE,name=CMS V2,goal=,startDate=2018-07-02T19:48:36.306Z,endDate=2018-07-17T19:48:00.000Z,completeDate=<null>,sequence=74]"
+],
+"timeestimate": 0
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45781",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45781",
+"key": "SS-2222",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@4bbb9f4d[id=74,rapidViewId=9,state=ACTIVE,name=CMS V2,goal=,startDate=2018-07-02T19:48:36.306Z,endDate=2018-07-17T19:48:00.000Z,completeDate=<null>,sequence=74]"
+],
+"timeestimate": 0
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45747",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45747",
+"key": "SS-2196",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@60a25ce0[id=71,rapidViewId=9,state=ACTIVE,name=SSND 24 | 1.93.0,goal=,startDate=2018-07-19T15:21:37.737Z,endDate=2018-08-01T15:21:00.000Z,completeDate=<null>,sequence=71]"
+],
+"timeestimate": null
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45743",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45743",
+"key": "SS-2192",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@4bbb9f4d[id=74,rapidViewId=9,state=ACTIVE,name=CMS V2,goal=,startDate=2018-07-02T19:48:36.306Z,endDate=2018-07-17T19:48:00.000Z,completeDate=<null>,sequence=74]"
+],
+"timeestimate": 0
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45741",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45741",
+"key": "SS-2190",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@4bbb9f4d[id=74,rapidViewId=9,state=ACTIVE,name=CMS V2,goal=,startDate=2018-07-02T19:48:36.306Z,endDate=2018-07-17T19:48:00.000Z,completeDate=<null>,sequence=74]"
+],
+"timeestimate": 0
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45739",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45739",
+"key": "SS-2188",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@51ecae8a[id=75,rapidViewId=9,state=ACTIVE,name=New Content Feed,goal=,startDate=2018-07-06T22:15:22.259Z,endDate=2018-08-31T22:15:00.000Z,completeDate=<null>,sequence=75]"
+],
+"timeestimate": 180000
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45738",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45738",
+"key": "SS-2187",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@51ecae8a[id=75,rapidViewId=9,state=ACTIVE,name=New Content Feed,goal=,startDate=2018-07-06T22:15:22.259Z,endDate=2018-08-31T22:15:00.000Z,completeDate=<null>,sequence=75]"
+],
+"timeestimate": 122400
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45737",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45737",
+"key": "SS-2186",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@51ecae8a[id=75,rapidViewId=9,state=ACTIVE,name=New Content Feed,goal=,startDate=2018-07-06T22:15:22.259Z,endDate=2018-08-31T22:15:00.000Z,completeDate=<null>,sequence=75]"
+],
+"timeestimate": 75600
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45736",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45736",
+"key": "SS-2185",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@51ecae8a[id=75,rapidViewId=9,state=ACTIVE,name=New Content Feed,goal=,startDate=2018-07-06T22:15:22.259Z,endDate=2018-08-31T22:15:00.000Z,completeDate=<null>,sequence=75]"
+],
+"timeestimate": 122400
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45732",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45732",
+"key": "SS-2182",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@4bbb9f4d[id=74,rapidViewId=9,state=ACTIVE,name=CMS V2,goal=,startDate=2018-07-02T19:48:36.306Z,endDate=2018-07-17T19:48:00.000Z,completeDate=<null>,sequence=74]"
+],
+"timeestimate": null
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45731",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45731",
+"key": "SS-2181",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@4bbb9f4d[id=74,rapidViewId=9,state=ACTIVE,name=CMS V2,goal=,startDate=2018-07-02T19:48:36.306Z,endDate=2018-07-17T19:48:00.000Z,completeDate=<null>,sequence=74]"
+],
+"timeestimate": 0
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45725",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45725",
+"key": "SS-2178",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@4bbb9f4d[id=74,rapidViewId=9,state=ACTIVE,name=CMS V2,goal=,startDate=2018-07-02T19:48:36.306Z,endDate=2018-07-17T19:48:00.000Z,completeDate=<null>,sequence=74]"
+],
+"timeestimate": 18000
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45724",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45724",
+"key": "SS-2177",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@4bbb9f4d[id=74,rapidViewId=9,state=ACTIVE,name=CMS V2,goal=,startDate=2018-07-02T19:48:36.306Z,endDate=2018-07-17T19:48:00.000Z,completeDate=<null>,sequence=74]"
+],
+"timeestimate": 0
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45721",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45721",
+"key": "SS-2175",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@4bbb9f4d[id=74,rapidViewId=9,state=ACTIVE,name=CMS V2,goal=,startDate=2018-07-02T19:48:36.306Z,endDate=2018-07-17T19:48:00.000Z,completeDate=<null>,sequence=74]"
+],
+"timeestimate": 0
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45719",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45719",
+"key": "SS-2173",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@4bbb9f4d[id=74,rapidViewId=9,state=ACTIVE,name=CMS V2,goal=,startDate=2018-07-02T19:48:36.306Z,endDate=2018-07-17T19:48:00.000Z,completeDate=<null>,sequence=74]"
+],
+"timeestimate": 0
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45713",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45713",
+"key": "SS-2170",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@4bbb9f4d[id=74,rapidViewId=9,state=ACTIVE,name=CMS V2,goal=,startDate=2018-07-02T19:48:36.306Z,endDate=2018-07-17T19:48:00.000Z,completeDate=<null>,sequence=74]"
+],
+"timeestimate": null
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45712",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45712",
+"key": "SS-2169",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@4bbb9f4d[id=74,rapidViewId=9,state=ACTIVE,name=CMS V2,goal=,startDate=2018-07-02T19:48:36.306Z,endDate=2018-07-17T19:48:00.000Z,completeDate=<null>,sequence=74]"
+],
+"timeestimate": null
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45708",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45708",
+"key": "SS-2165",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": null
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45702",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45702",
+"key": "SS-2160",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 18000
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45698",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45698",
+"key": "SS-2156",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 28800
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45697",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45697",
+"key": "SS-2155",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 46800
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45696",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45696",
+"key": "SS-2154",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 28800
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45695",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45695",
+"key": "SS-2153",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 28800
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45694",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45694",
+"key": "SS-2152",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 10800
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45692",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45692",
+"key": "SS-2150",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 28800
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45680",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45680",
+"key": "SS-2145",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 0
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45678",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45678",
+"key": "SS-2143",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": null
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45677",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45677",
+"key": "SS-2142",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 18000
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45676",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45676",
+"key": "SS-2141",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 28800
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45675",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45675",
+"key": "SS-2140",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 2700
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45674",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45674",
+"key": "SS-2139",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 1800
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45655",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45655",
+"key": "SS-2123",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 18000
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45654",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45654",
+"key": "SS-2122",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 0
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45648",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45648",
+"key": "SS-2116",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 7200
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45643",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45643",
+"key": "SS-2114",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 122400
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45634",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45634",
+"key": "SS-2108",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 28800
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45603",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45603",
+"key": "SS-2078",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 18000
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45598",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45598",
+"key": "SS-2075",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@60a25ce0[id=71,rapidViewId=9,state=ACTIVE,name=SSND 24 | 1.93.0,goal=,startDate=2018-07-19T15:21:37.737Z,endDate=2018-08-01T15:21:00.000Z,completeDate=<null>,sequence=71]"
+],
+"timeestimate": 28800
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45582",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45582",
+"key": "SS-2063",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 75600
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45581",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45581",
+"key": "SS-2062",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 28800
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45569",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45569",
+"key": "SS-2052",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 3600
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45508",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45508",
+"key": "SS-2005",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 0
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45468",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45468",
+"key": "SS-1968",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 46800
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "44767",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/44767",
+"key": "SS-1366",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 18000
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "44472",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/44472",
+"key": "SS-821",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@21b579fe[id=70,rapidViewId=9,state=ACTIVE,name=Store Profile FBR,goal=,startDate=2018-07-02T15:12:58.271Z,endDate=2018-07-14T15:12:00.000Z,completeDate=<null>,sequence=70]"
+],
+"timeestimate": 0
+}
+},
+{
+"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+"id": "45794",
+"self": "https://seasoned.atlassian.net/rest/api/2/issue/45794",
+"key": "DATA-210",
+"fields": {
+"customfield_10115": [
+"com.atlassian.greenhopper.service.sprint.Sprint@53027474[id=76,rapidViewId=16,state=ACTIVE,name=DATA Sprint 16,goal=,startDate=2018-07-17T22:54:09.307Z,endDate=2018-07-29T22:54:00.000Z,completeDate=<null>,sequence=76]"
+],
+"timeestimate": null
+}
+}
 ]
 }
