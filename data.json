@@ -1,5 +1,4 @@
-{
-	"issues": [
+[
 	{
 		"expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
 		"id": "45800",
@@ -600,5 +599,4 @@
 	"timeestimate": null
 	}
 	}
-	]
-}
+]
