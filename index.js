@@ -13,7 +13,9 @@ fetch('data.json').then(response => {
 });
 
 var str = dataResponse.fields.customfield_10115
-str.split('name=').pop().split(',goal=').shift();
 
-return str;
-console.log(str);
+function extractString(){
+	str.split('name=').pop().split(',goal=').shift();
+	var subStr = str.split('name=').pop().split(',goal=').shift();
+	return subStr;
+}
