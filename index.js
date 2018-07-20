@@ -1,3 +1,5 @@
+let fetch = require("node-fetch");
+
 let dataResponse;
 // ATTEMPT 2
 fetch('data.json').then(response => {
